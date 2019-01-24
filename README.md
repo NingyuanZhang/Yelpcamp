@@ -9,5 +9,7 @@ Cloud9 versus Heroku + MongoLab
 
 ## Features
 * Authentication:
+  User sign up
+  User log in with username and password
 * Authorization:
 * Manage campground posts:
